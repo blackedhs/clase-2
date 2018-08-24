@@ -1,19 +1,18 @@
 #include <stdio.h>
 #include <stdlib.h>
-int numero;
-int main()
-{
 
+int main()
+{//blabla
+    int numero;
     int i;
     int numeroMaximo;
     int numeroMinimo;
     float promedio;
     int acumulador;
-    printf("%d",numero);
+
     for(i=0,acumulador=0;i<10;i++){
         printf("ingrese un numero :\n");
         scanf("%d",&numero);
-        printf("%d",numero);
         if(i==0){
             numeroMaximo=numero;
             numeroMinimo=numero;
