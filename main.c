@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main()
-{//blabla
+{
     int numero;
     int i;
     int numeroMaximo;
